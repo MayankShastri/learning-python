@@ -7,6 +7,6 @@ def sum_or_product(a,b):
 
 a=int(input("Enter your first number: "))
 b=int(input("Enter your second number: "))
-result=sum_or_product(a,b)
 
-print(f"The result is {result}")
+result=sum_or_product(a,b)
+print(f"The result is {result}")git reset HEAD~1
